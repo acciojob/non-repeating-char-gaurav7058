@@ -21,5 +21,5 @@ function firstNonRepeatedChar(str) {
     // If there is no non-repeated character, return null
     return null;
 }
-// const input = prompt("Enter a string");
+const input = prompt("Enter a string");
 alert(firstNonRepeatedChar(input)); 
